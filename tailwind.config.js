@@ -7,7 +7,8 @@ export default {
             gray: '#212529',
             white: '#FFF',
             red: '#FF0000',
-            orange: '#FFA900'
+            orange: '#FFA900',
+            yellow: '#FACC15'
         },
         fontFamily: {
             sans: ['Graphik', 'sans-serif'],
